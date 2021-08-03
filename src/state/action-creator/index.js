@@ -1,0 +1,1 @@
+export * as colorActionCreator from './color-action-creator'
